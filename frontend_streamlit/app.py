@@ -97,7 +97,7 @@ st.markdown("""
 # ==============================================================================
 # 2. CONFIGURACIÓN DE VARIABLES Y OPCIONES
 # ==============================================================================
-API_URL_LOCAL = "http://127.0.0.1:5000/predict"
+API_URL_LOCAL = "https://proyecto-analitica-uptc.onrender.com/predict"
 TIMEOUT = 10
 
 MAP_GENERO = {"Masculino": "M", "Femenino": "F"}
