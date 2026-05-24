@@ -242,7 +242,7 @@ if calcular:
         st.markdown("---")
         
         # URL local estándar de Flask
-        API_URL = "http://127.0.0.1:5000/predict"
+        API_URL = "https://proyecto-analitica-uptc.onrender.com/predict"
         
         with st.spinner("🔄 Conectando con la API de la UPTC... Por favor espere."):
             try:
